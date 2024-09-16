@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 22px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Section-specific styling */
+.section {
+    margin-bottom: 20px;
+}
+
+ul li strong {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul li {
+    font-size: 14px;
+}
+
+p strong {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
